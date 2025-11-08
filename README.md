@@ -8,7 +8,7 @@ Built by hackers, for hackers. Zero fluff.
 ## What It Does
 
 - Monitors 10 security RSS feeds - CVEs, security news, ransomware intel, malware drops
-- Auto-posts to Discord - New vulns and news hit your channels in real-time
+- Auto posts to Discord - New vulns and news hit your channels in real-time
 - Zero interaction needed - Fire and forget. Bot does its thing.
 - Webhook-based - Fast, reliable, no database bullshit
 
@@ -35,7 +35,7 @@ Threat Intelligence
 - Ransomware.live - Active ransomware group tracking
 - VX-Underground - Malware samples and APT research
 
-Total: 10 feeds, checked every 30 mins (configurable), auto-posted to Discord.
+Total: 10 feeds, checked every 30 mins (configurable), auto posted to Discord.
 
 ### Quick Start 
 
