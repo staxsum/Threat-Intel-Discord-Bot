@@ -40,9 +40,9 @@ Total: 10 feeds, checked every 30 mins (configurable), auto-posted to Discord.
 ### Quick Start 
 
 Prerequisites
-Node.js 18+ (if you don't have this, what are you even doing?)
-Discord bot token (create one at discord.com/developers)
-4 Discord webhooks (Server Settings > Integrations > Webhooks)
+- Node.js 18+ (if you don't have this, what are you even doing?)
+- Discord bot token (create one at discord.com/developers)
+- 4 Discord webhooks (Server Settings > Integrations > Webhooks)
 
 ## Installation
 Download or clone this repo
